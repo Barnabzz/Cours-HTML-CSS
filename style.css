@@ -1,0 +1,61 @@
+a {
+    color: black;
+    font-style:normal;
+    text-decoration: none;
+}
+
+.logo-top:hover{
+    text-decoration: underline;
+}
+
+a[class="cta"] {
+
+}
+
+.logo-bot:hover{
+    text-decoration: underline;
+}
+
+.propassion {
+    color: #A5B4FC;
+}
+
+h1{
+    font-size: 3.5em;
+    color: #a5b4fc;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    font-family: 'Manrope', sans-serif ;
+    background-color: #1F2039;
+    color: #F9F8FF;
+}
+
+em{
+    font-style: normal;
+}
+
+p,
+li{
+    font-size: 1.1em;
+}
+
+.logo-top,
+.logo-bot{
+    background-color: white;
+    color: #242424;
+}
+
+.cta{
+    background:linear-gradient(#8E86B5,#ACAEED);
+    color: white;
+    font-family: 'Manrope', sans-serif ;
+    border-radius: 50px;
+}
+
+.mid {
+    border-bottom: 1px solid #8e86b5;
+    border-right:1px solid #8e86b5 ;
+}
+
