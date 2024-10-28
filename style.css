@@ -4,15 +4,7 @@ a {
     text-decoration: none;
 }
 
-.logo-top:hover{
-    text-decoration: underline;
-}
-
-a[class="cta"] {
-
-}
-
-.logo-bot:hover{
+a:hover{
     text-decoration: underline;
 }
 
@@ -34,6 +26,15 @@ body{
 
 em{
     font-style: normal;
+}
+
+a[class="cta"]:hover {
+    text-decoration: none;
+    background: linear-gradient(#696484,#8788BA);
+}
+
+a img:hover {
+    opacity: 0.5;
 }
 
 p,
