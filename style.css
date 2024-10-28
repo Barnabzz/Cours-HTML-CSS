@@ -1,3 +1,33 @@
+* {
+    margin: 0;
+}
+
+header,
+footer {
+    padding-left: 50px;
+    padding-right:50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+section {
+    padding: 80px;
+}
+
+.mid {
+    padding: 50px;
+}
+
+.Services
+ {
+    margin-top: 10px;
+}
+
+.a-propos-main {
+    margin: auto;
+    width: 50%;
+}
+
 a {
     color: black;
     font-style:normal;
